@@ -98,7 +98,7 @@ describe('a suite of tests', function(){
 
 #### 覆盖率
 
-#### mock 
+#### mock
 
 在测试领域里，模拟数据或者异常有着一个特殊的名词：mock。我们通过伪造被调用方来测试上层代码的健壮性等。
 
